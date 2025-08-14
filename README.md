@@ -1,6 +1,6 @@
-# flutter_anime_platform
+# Yumenime
 
-A new Flutter project.
+A Anime application using Flutter
 
 ## Getting Started
 
